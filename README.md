@@ -26,7 +26,7 @@ Aplicação React que consome dados da API JSON Placeholder para exibir posts e 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/DMont3/teste-daniel
+git clone https://github.com/DMont3/Blog-App-React
 ```
 
 2. Navegue até o diretório do projeto:
