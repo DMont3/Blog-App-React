@@ -31,7 +31,7 @@ git clone https://github.com/DMont3/Blog-App-React
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd teste-daniel
+cd Blog-App-React
 ```
 
 3. Instale as dependências:
